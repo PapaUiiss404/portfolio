@@ -15,6 +15,10 @@ body {
   box-shadow: 0 0 5px #000;
 }
 
+.auto-typed {
+  color: Red;
+}
+
 .social {
   font-size: 20px;
 }
